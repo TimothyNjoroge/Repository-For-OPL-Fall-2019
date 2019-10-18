@@ -1,0 +1,5 @@
+﻿  J0.cpp
+f:\organization of programming languages\j0\j0\j0.cpp(94): error C3867: 'JExpression::show': non-standard syntax; use '&' to create a pointer to member
+f:\organization of programming languages\j0\j0\j0.cpp(94): error C2297: '+': illegal, right operand has type 'std::string (__thiscall JExpression::* )(void)'
+f:\organization of programming languages\j0\j0\j0.cpp(122): error C3867: 'JExpression::show': non-standard syntax; use '&' to create a pointer to member
+f:\organization of programming languages\j0\j0\j0.cpp(122): error C2297: '+': illegal, right operand has type 'std::string (__thiscall JExpression::* )(void)'
